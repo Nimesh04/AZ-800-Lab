@@ -9,6 +9,7 @@ This lab simulates a real-world enterprise setup, focusing on identity managemen
 ---
 
 ## 🧱 Environment Architecture
+<img width="1536" height="1024" alt="System Architecture diagram" src="https://github.com/user-attachments/assets/1fd3d9c1-f828-46a2-b8f3-3d884d3d249b" />
 
 ### On-Premises
 - **DC01** – Domain Controller (corp.lab)
@@ -96,7 +97,11 @@ This lab simulates a real-world enterprise setup, focusing on identity managemen
 
 ## 📸 Screenshots
 
-*(Add images in /screenshots folder and reference them here)*
+<img width="1013" height="846" alt="On-prem structure" src="https://github.com/user-attachments/assets/1246ef5d-0b3f-4ad9-ba64-27d6071a6011" />
+<img width="1186" height="862" alt="Azure corp lab properties" src="https://github.com/user-attachments/assets/38a79137-0420-465a-950d-84eaab9b9f13" />
+<img width="1675" height="551" alt="Azure Arc" src="https://github.com/user-attachments/assets/ab6b453a-ec68-4a45-8049-a3741de5d3d1" />
+<img width="1112" height="803" alt="Users" src="https://github.com/user-attachments/assets/f81ae74e-bb2e-4188-b7e2-17ce9fdaf2e5" />
+
 
 Examples to include:
 - AD Users & Computers (OU structure)
@@ -123,6 +128,7 @@ Examples to include:
 - Implement file services and storage solutions
 - Improve PowerShell automation for admin workflows
 
----
+## ⚠️ Notes
 
-## 📂 Repository Structure
+This lab was built in a virtualized environment using VirtualBox.  
+Focus was placed on simulating real-world scenarios and troubleshooting failures rather than just completing a clean setup.
