@@ -14,8 +14,6 @@ Cloud:
 - Azure Arc (connected DC01)
 - Log Analytics Workspace
 
-👉 YOU NEED TO ADD A DIAGRAM HERE
-If you skip this, you’re leaving value on the table.
 
 🔧 Key Features Implemented
 - Active Directory Domain Services (AD DS) forest deployment
@@ -44,8 +42,6 @@ If you skip this, you’re leaving value on the table.
   - Block inheritance conflicts
   - Security filtering misconfigurations
   - GPO unlinking and troubleshooting via gpresult
-
-👉 This section is what makes you stand out. Most people don’t have this.
 
 🛠️ Automation (PowerShell)
 - Bulk user creation via CSV
